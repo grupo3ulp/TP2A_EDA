@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
         
     }
 
-    cout << "La suma de los números impares hasta el valor (2*n-1) = " << nn << " es igual a: " << r << endl;
+    cout << "La suma de los números impares hasta el valor (2*n-1) = " << nn << " es igual a: " << r1 << endl;
 
 	return 0;
 }
