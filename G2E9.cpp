@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 
-    int n, r;
+    float n, r;
     r = 1;
     cout << "Ingrese el valor de n" << endl;
     cin >> n;
