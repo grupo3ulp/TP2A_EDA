@@ -10,7 +10,6 @@ int main(int argc, char** argv) {
 
     int n,c;
     c = 0;
-	bool flag = true;
 
 	do	{
 	cout << "Ingrese un numero entero. Para finalizar el programa ingrese '0'." << endl;
